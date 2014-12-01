@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            相片
+tagline:          '共享'
+description:      'Photo'
+url:              http://photozsm.github.io
+
+author:
+  name:           'ZSM.'
+  url:            
+
+paginate:         1
+
+# Custom vars
+version:          2.0.0
+
+
