@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            相片
-tagline:          '共享'
-description:      'Photo'
+title:            'Photographer'
+tagline:          'ZSM'
+description:      'Photo by ZSM'
 url:              http://photozsm.github.io
 
 author:

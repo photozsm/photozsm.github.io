@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Photoes in Hong Kong
-slug: hongkong
+title: Photoes in Tanzania
+slug: tanzania
 ---
 
 <div class="posts">
 
-{% for post in site.categories.hongkong %}
+{% for post in site.categories.tanzania %}
  {% if post.url %}
   <div class="post">
        <span class="post-date">{{ post.date | date_to_string }}</span>
